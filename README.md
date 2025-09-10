@@ -133,7 +133,7 @@ FIGURE-02:
 <img width="1920" height="1080" alt="486399855-3572b4dd-df6e-4e87-88ad-3c178ff79e4b" src="https://github.com/user-attachments/assets/5245962d-c69d-403e-8b5e-d7dffaaa3382" />
 
 
-## RESULTS
+## RESULTS:
 
 The multiple switches connected to the Raspberry Pi Pico successfully controlled the LEDs based on their states, confirming the proper interfacing of digital inputs and outputs.
 
